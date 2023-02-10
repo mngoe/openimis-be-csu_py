@@ -1,0 +1,17 @@
+LICENSE.md
+MANIFEST.in
+README.md
+setup.py
+csu/__init__.py
+csu/admin.py
+csu/apps.py
+csu/models.py
+csu/schema.py
+csu/tests.py
+csu/urls.py
+csu/views.py
+openimis_be_csu.egg-info/PKG-INFO
+openimis_be_csu.egg-info/SOURCES.txt
+openimis_be_csu.egg-info/dependency_links.txt
+openimis_be_csu.egg-info/requires.txt
+openimis_be_csu.egg-info/top_level.txt
