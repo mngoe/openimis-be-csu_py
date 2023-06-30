@@ -7,6 +7,7 @@ csu/admin.py
 csu/apps.py
 csu/models.py
 csu/schema.py
+csu/signals.py
 csu/tests.py
 csu/urls.py
 csu/views.py
